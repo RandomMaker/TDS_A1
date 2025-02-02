@@ -1,2 +1,7 @@
 name: 23f2002635@ds.study.iitm.ac.in
 description: 'Greet someone and record the time'
+jobs:
+  test:
+    steps:
+      - name: 23f2002635@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
